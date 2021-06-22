@@ -1,0 +1,9 @@
+a.titulo {
+    padding: 15px;
+    color:rgb(255, 255, 255);
+}
+
+a.titulo:hover {
+    text-decoration: none;
+    color
+}
