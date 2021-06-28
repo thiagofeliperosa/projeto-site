@@ -7,3 +7,22 @@ a.titulo:hover {
     text-decoration: none;
     color
 }
+
+.nav-cor {
+    background-color: rgba(41, 43, 44, 0.5);
+}
+
+
+.nav-item {
+    width: 80px;
+}
+
+.fundo-img {
+    background-image: url(../img/fundo.jpg);
+    background-attachment: fixed;
+    height: 450px;
+}
+
+.sessao2 {
+    height: 200px;
+}
